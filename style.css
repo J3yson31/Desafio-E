@@ -1,0 +1,176 @@
+
+.menu{
+    padding: 32px 23px;
+    background-color:white
+}
+
+.imagenmenu{
+    display: flex;
+    margin-top: -58px;
+    margin-left: 168px;
+}
+.Buscar{
+    background-color: rgb(154, 154, 255);
+    color: black;
+    border-radius: 12px;
+    width: 302px;
+    height: 23px;
+    font-weight: bold;
+}
+.sesion{
+    display: flex;
+    margin-left: 1122px;
+    margin-top: -55px;
+    background-color: white;
+    color: blue;
+    width: 60px;
+    height: 40px;
+    font-weight: bold;
+    border-color: blue;
+    line-height: 30px;
+    text-align: center;
+    
+}
+
+.boton2{
+    display: flex;
+    margin-top: -22px;
+    margin-left: 365px;
+}
+.banner{
+    width: 1339px;
+    margin-top: 10px;
+    height: 288px;
+}
+
+.febrero{
+    margin-top: -180px;
+    margin-left: 212px;
+    color: white;
+}
+.ver{
+    background-color: blue;
+    color: white;
+    width: 112px;
+    height: 40px;
+}
+
+.star__img{
+   
+    width: 176px;
+    height: 174px;
+    margin-top: -12px; 
+}
+.star__line{
+display: flex;
+
+}
+
+.star__box{
+
+    display: flex;
+}
+.star__title{
+    margin-left: 38px;
+    margin-top: 52px;
+}
+.consola__title{
+    margin-left: 38px;
+}
+.diversos__title{
+    margin-left: 38px;
+}
+.producto1{
+    
+    color: dodgerblue;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+    
+}
+
+.consola__line{
+    display: flex;
+}
+.consola__img{
+   
+    width: 176px;
+    height: 174px; 
+    margin-top: -12px; 
+}
+.diversos__line{
+    display: flex;
+}
+.diversos__img{
+   
+    width: 176px;
+    height: 174px; 
+    margin-top: -12px; 
+}
+
+.fin{
+    padding: 84px;
+    background-color: rgb(167, 184, 255);
+    width: 1173px;
+    height: 208px;
+}
+.politicas{
+    margin-left: 300px;
+    margin-top: -73px;
+}
+
+.logofin{
+    margin-top: 13px;
+}
+
+.formnosotros__form{
+    display: inline-table;
+    margin-left: 620px;
+    margin-top: 10px;
+    position: relative;
+    
+}
+.titulo{
+    display: flex;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+div.Hable{
+    
+    position: relative;
+    top: -258px;
+}
+.formnosotros__form{
+    display: inline-table;
+}
+.formnombre__input{
+    display: flex;
+    width: 560px;
+    height: 56px;
+}
+.formnosotros__textarea{
+    margin-top: 3px;
+    width: 560px;
+    height: 82px;
+}
+
+.formnosotros__botao {
+    display: flex;
+    background-color: blue;
+    color: white;
+    width: 112px;
+    height: 40px;
+    
+}
+.footer{
+    color:black;
+    font-weight: bold;
+    margin-left: 600px;
+    
+}
+
+.year{
+    margin-left: 89px; 
+   
+}
